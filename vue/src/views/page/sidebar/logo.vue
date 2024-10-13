@@ -1,7 +1,7 @@
 <template>
   <div style="height:50px;">
-    <div class="menuTitle" @click="gotoHome">
-      物流管理系统
+    <div class="menuTitle">
+      Logistics management
     </div>
   </div>
 </template>
